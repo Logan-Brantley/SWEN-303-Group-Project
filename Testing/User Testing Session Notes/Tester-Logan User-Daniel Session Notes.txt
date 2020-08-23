@@ -1,0 +1,46 @@
+Prototype Testing: Daniel Pullon
+
+
+
+Test:
+- 25s
+- 4/4 clicks
+- Success
+
+View admin site:
+- 15s
+- 2/2 clicks
+- Success
+
+About:
+- 5s
+- 1/1 clicks
+- Success
+
+Parties:
+- 15s
+- 3/2 clicks
+- Success
+
+
+
+
+
+
+
+
+Feedback:
+- He thought log-in was for users, not admins
+- He would expect that site asks if user would like to save progress if leaving site mid-quiz
+- Info pages could have a side-bar-esque method of navigating parties while viewing policies
+- Test results should have labels and percentages for graph
+- Admin stats graphs should be labelled as well
+- He asked where to log out on admin page
+- He said that its good that results page has buttons to take you to different party info pages
+- He said tab bar at top is good - can access all pages from anywhere
+- He suggested: on home page, right hand of the screen, have buttons to take you to party policies with title "See the parties"
+
+
+
+NOTES:
+- Viewing previous results didnt work?

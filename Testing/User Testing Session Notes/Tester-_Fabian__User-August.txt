@@ -1,0 +1,25 @@
+Tester - Fabian Fagan
+User - August Bolter (tested twice for more metric information)
+
+
+
+Tasks:
+
+-"Taking the test" took 15 seconds with 3 clicks and was successful.
+
+-"Leaves Mid Survey" took 3 seconds with 2 clicks and was successful.
+
+-"View Previous Results" took 6 seconds with 4 clicks and was successful.
+
+-"Visit the About Page" took 3 seconds with 1 click and was succesful.
+
+-"View a Party's Policies" took 5 seconds with 2 clicks and was succesful
+
+-"Login as admin" took 5 seconds with 2 clicks and was succesful
+
+
+Suggestions/Feedback:
+
+
+-Party info could be hard to find located at the test end/results screen.
+-Info could be called "party info" to avoid generalisation and confusion
